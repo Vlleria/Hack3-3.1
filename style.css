@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header{
+    height:25vh;
+    background-color: #93B5C9;
+    position: relative;
+}
+section{
+    height: 35vh;
+    background-color:#AB2849;
+    position: relative;   
+}
+
+.centro{
+    background-color:#AB2849;
+    height: 200px;
+    width: 1000px;
+    margin: 60px 0 60px 160px;
+
+}
+.derecha{
+    background-color:#AB2849;
+    height: 200px;
+    width: 490px;
+    position: relative;
+    margin: 60px 0 60px 160px;
+
+}
+.izquierda{
+    position: absolute;
+    background-color: #AB2849;
+    height: 200px;
+    width: 500px;
+    left: 100%;
+    margin-left: 10px;
+
+}
+footer{
+    background-color:#AB2849;
+    padding: 50px;
+    margin: 15px 15px 0 15px;
+    position: relative;
+    bottom: 0;  
+}
